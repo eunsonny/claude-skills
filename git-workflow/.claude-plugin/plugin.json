@@ -1,0 +1,12 @@
+{
+  "name": "git-workflow",
+  "version": "0.2.0",
+  "description": "Git 워크플로우 자동화 - 커밋, 푸시, PR 생성",
+  "author": {
+    "name": "eunsonny"
+  },
+  "license": "MIT",
+  "keywords": ["git", "commit", "push", "pull-request", "workflow", "korean"],
+  "commands": "./commands/",
+  "skills": "./skills/"
+}
