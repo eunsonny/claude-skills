@@ -3,14 +3,12 @@
   "owner": {
     "name": "eunsonny"
   },
-  "metadata": {
-    "description": "개발 워크플로우 자동화를 위한 Claude Code 플러그인",
-    "version": "0.1.0"
-  },
+  "description": "개발 워크플로우 자동화를 위한 Claude Code 플러그인",
+  "version": "0.1.0",
   "plugins": [
     {
-      "name": "claude-skills",
-      "source": ".",
+      "name": "commit-push",
+      "source": "./commit-push",
       "description": "Conventional Commits 형식의 한국어 커밋 메시지 자동 생성 및 푸시 스킬",
       "version": "0.1.0",
       "author": {
