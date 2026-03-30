@@ -1,0 +1,10 @@
+{
+  "name": "claude-skills",
+  "version": "0.1.0",
+  "description": "Custom Claude Code skills for development workflow automation",
+  "author": {
+    "name": "eunsonny"
+  },
+  "license": "MIT",
+  "keywords": ["git", "commit", "push", "workflow"]
+}
