@@ -1,5 +1,5 @@
 {
-  "name": "claude-skills",
+  "name": "my-claude-skills",
   "owner": {
     "name": "eunsonny"
   },
@@ -14,7 +14,7 @@
       "author": {
         "name": "eunsonny"
       },
-      "repository": "https://github.com/eunsonny/claude-skills",
+      "repository": "https://github.com/eunsonny/my-claude-skills",
       "license": "MIT",
       "keywords": ["git", "commit", "push", "pull-request", "workflow", "korean"],
       "category": "productivity"

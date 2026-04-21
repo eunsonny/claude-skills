@@ -1,11 +1,11 @@
-# claude-skills
+# my-claude-skills
 
 개발 워크플로우 자동화를 위한 Claude Code 플러그인.
 
 ## Structure
 
 ```
-claude-skills/
+my-claude-skills/
 ├── .claude-plugin/
 │   └── plugin.json
 ├── commands/
@@ -40,5 +40,5 @@ feat: 다크모드 지원 추가
 ## Installation
 
 ```bash
-claude plugin add /path/to/claude-skills
+claude plugin add /path/to/my-claude-skills
 ```
